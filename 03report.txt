@@ -1,0 +1,37 @@
+Tue Feb 10 15:58:38 PST 2026
+Darwin HaoLindeMacBook-Pro.local 25.1.0 Darwin Kernel Version 25.1.0: Mon Oct 20 19:33:36 PDT 2025; root:xnu-12377.41.6~2/RELEASE_ARM64_T6030 arm64
+TERM_PROGRAM=Apple_Terminal
+SHELL=/bin/zsh
+TERM=xterm-256color
+TMPDIR=/var/folders/2p/gsn4syfd0jx473699ftbxcr00000gn/T/
+CONDA_SHLVL=1
+CONDA_PROMPT_MODIFIER=(base) 
+TERM_PROGRAM_VERSION=465
+GSETTINGS_SCHEMA_DIR_CONDA_BACKUP=
+TERM_SESSION_ID=4CE57692-5B1E-44ED-AF3B-4B139D0BC587
+USER=baiya
+CONDA_EXE=/opt/anaconda3/bin/conda
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.tZo4QQZHi3/Listeners
+_CE_CONDA=
+PATH=/opt/anaconda3/bin:/opt/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.14/bin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin
+GSETTINGS_SCHEMA_DIR=/opt/anaconda3/share/glib-2.0/schemas
+CONDA_PREFIX=/opt/anaconda3
+__CFBundleIdentifier=com.apple.Terminal
+PWD=/Users/baiya/Code/mcb185_homework
+LANG=C.UTF-8
+XPC_FLAGS=0x0
+_CE_M=
+XPC_SERVICE_NAME=0
+SHLVL=2
+HOME=/Users/baiya
+CONDA_PYTHON_EXE=/opt/anaconda3/bin/python
+LOGNAME=baiya
+LC_CTYPE=UTF-8
+CONDA_DEFAULT_ENV=base
+OSLogRateLimit=64
+COLORTERM=truecolor
+_=/usr/bin/printenv
+Python 3.12.7
+/Users/baiya/Code:
+MCB185
+mcb185_homework
